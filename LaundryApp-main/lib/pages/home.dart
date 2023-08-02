@@ -53,8 +53,8 @@ class Home extends StatelessWidget {
               decoration: const BoxDecoration(
                 color: Constants.scaffoldBackgroundColor,
                 borderRadius: BorderRadius.only(
-                  topRight: Radius.circular(0.0),
-                  topLeft: Radius.circular(0.0),
+                  topRight: Radius.circular(30.0),
+                  topLeft: Radius.circular(30.0),
                 ),
               ),
               child: Column(
