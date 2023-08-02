@@ -77,7 +77,7 @@ class _Card1WidgetState extends State<Card1Widget> {
                         ClipRRect(
                           borderRadius: BorderRadius.circular(8.0),
                           child: SvgPicture.asset(
-                            'assets/images/avatar.jpg',
+                            'assets/images/chip_1.svg',
                             width: 60.0,
                             height: 60.0,
                             fit: BoxFit.contain,
